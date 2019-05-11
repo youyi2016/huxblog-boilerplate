@@ -6,7 +6,7 @@ email: youyi2016@foxmail.com
 description: "记录技术和个人生活"
 keyword: "JavaScript, CSS, HTML"
 url: "http://youyi2016.github.io"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/youyi"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 

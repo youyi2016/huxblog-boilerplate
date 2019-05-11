@@ -25,11 +25,6 @@
                         <a href="{{ page.url | prepend: site.baseurl }}">Home</a>
                     </li>
                     {% for page in site.pages %}{% if page.title %}
-                   <!--  {% if page.title === 'YouYi Blog' %} -->
-                    <!-- <li>
-                        <a href="{{ page.url | prepend: site.baseurl }}">Home</a>
-                    </li> -->
-                    <!-- {% endif %} -->
                     <li>
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     </li>
